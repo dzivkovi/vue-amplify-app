@@ -1,8 +1,12 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>Hello Vue.js from AWS Amplify</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
+      Created by following <a href="https://www.youtube.com/watch?v=ptb3fZ_hKc8" target="_blank" rel="noopener">this mini tutorial</a> by 
+      <a href="https://twitter.com/dabit3" target="_blank" rel="noopener">Nader Dabit</a>. Learn more at <a href="https://aws-amplify.github.io/docs/" target="_blank" rel="noopener">AWS Amplify Framework</a>.
+    </p>
+    <p>
+      For a guide and recipes on how to configure / customize this Vue project,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
